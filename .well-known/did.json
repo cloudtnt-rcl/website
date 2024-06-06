@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "did:web:cloudtnt.com",
+    "verificationMethod": [
+        {
+            "id": "did:web:cloudtnt.com#key-1",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:cloudtnt.com",
+            "publicKeyJwk": {
+                "e": "AQAB",
+                "kty": "RSA",
+                "n": "uBtKyvVqfY0gAUKVhw1OAlAYvPEz/SPhx9icMzmNv4\u002B2Pql6Lfrt95CqvUGxQw9/G4nT05TfR5uytQHVj7BHCIJ\u002B0MWlGkOw2JePMLXhiwWIbKDPitoRMV\u002BFzfxceB5z0SOcK\u002Bi/cph\u002BKp9oT6NEtfpdmuk8V4GxXIKyAP8z0POk4jp0oLeeFwH6q38NgOlubgBcbufdt6UwRQ90BsislZIQBePO4h\u002B8G3GSy9y9zt\u002BnFSymBnMCPQvGlVANofENyLmQGGd1Y9ZB5ysTaiYn/kNlva2Qgw6kNvIWk8padKyDxdz3JcCbxL3B8GAQyJXygcMdOh2zXl\u002BvqHhtH8piRQ=="
+            }
+        }
+    ],
+    "authentication": [
+        "did:web:cloudtnt.com#key-1"
+    ],
+    "assertionMethod": [
+        "did:web:cloudtnt.com#key-1"
+    ]
+}
