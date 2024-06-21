@@ -10,10 +10,9 @@
             "type": "JsonWebKey2020",
             "controller": "did:web:cloudtnt.com",
             "publicKeyJwk": {
-                "kid": "69669c4e28bc4ed9",
                 "kty": "RSA",
                 "e": "AQAB",
-                "n": "2X4unDj2x9hh0zcnp1Ed6bsfBUrJQhP64MfED0vg6r4eGzlDGI5+7q05pYQVTnZqtiRl/y74n5Qqr6HwX4ieeVU+AdJdqD4JWuZTNSu5dbILS0ctRrVvHUUa4iWdy2gl8vCp5DnewWFmz5KwzUUDvuHEezrTIzKkIkS5gZEd8Svsr/cv2YxQtiqcvPl24KctrRjMFqGTm3aszccRFMW/ylk2oAyDovtv9RCaUC0iVNj/9WM3Ju219tzWRjlzrdCxHk6367f64pgUDiH0djpafTN5dJB2cS2eMyj1WovQM8Y8sPqdfIWf7kl02NvoXfsSt/IvAPLzLrhVbRzotB6DsQ=="
+                "n": "qRKLe7FazN6F/crwMtBMLwe1OsYVKQ352J1CItR2Azxd3DrdyWP5vvKK2MhEkJiKscdTpyykAj/zlV8DxRt+j/U4fY+k3blX5+hAHQRhHrhfSsOb5RopzuV4a9TaYOSZzTHXMgd4UJGcFxgXC14Cd+aKdnRBbkqDg73SDPn7K5o3Ek/v9otLsF2gVf8luqxqUaYn+TrdxRzLqF1VEHCGjVt5f9f00n1OtJcNMrDCqeG7/9VO3C6JgJiDLfI/0/yAXPQReVX1CpfrPljF/peZM4bSBh9OGE20W76TUcVmHHWJIzJYHz39yxcwDPC3hYX9SDOj+FFExkBhPzg5F5JWwQ=="
             }
         }
     ],
